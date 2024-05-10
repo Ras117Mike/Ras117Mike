@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.giphy.com/uq1QEVIXxMh4k.webp" width="100" />
 
-Welcome to my space on git, I’m Ras117Mike and am interested in Gaming, Computers, Grilling, Gardening and Handyman work around the house. 
+Welcome to my space on GitHub, I’m Ras117Mike and am interested in Gaming, Computers, Grilling, Gardening and Handyman work around the house. 
 
 ## What I play
 
